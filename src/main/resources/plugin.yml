@@ -1,0 +1,5 @@
+name: AngelLevels
+version: @version@
+main: cz.angelo.angellevels.Main
+api-version: 1.16
+authors: [Angelo753]
